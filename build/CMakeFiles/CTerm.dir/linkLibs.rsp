@@ -1,0 +1,1 @@
+ "C:/Users/MartinNammat/Documents/Programming-2/Projects/CTerminalText/lua54.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

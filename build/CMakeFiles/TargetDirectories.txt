@@ -1,0 +1,3 @@
+C:/Users/MartinNammat/Documents/Programming-2/Projects/CTerminalText/build/CMakeFiles/CTerm.dir
+C:/Users/MartinNammat/Documents/Programming-2/Projects/CTerminalText/build/CMakeFiles/edit_cache.dir
+C:/Users/MartinNammat/Documents/Programming-2/Projects/CTerminalText/build/CMakeFiles/rebuild_cache.dir
